@@ -22,9 +22,13 @@ Run npm start on CLI or run node app.ts
 
 # Dependencies
 TypeScript: 5.0.02
-@types/body-parser": "^1.19.2",
-"@types/cors": "^2.8.13",
-"@types/express": "^4.17.17",
+
+@types/body-parser": "^1.19.2"
+
+"@types/cors": "^2.8.13"
+
+"@types/express": "^4.17.17"
+
 "@types/firebase": "^3.2.1"
 
 # License
